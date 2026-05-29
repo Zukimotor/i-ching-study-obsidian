@@ -6,6 +6,365 @@
       {
         "id": "dfef782c314b962a",
         "type": "tabs",
+        "dimension": 35.21573604060914,
+        "children": [
+          {
+            "id": "5942e4cb03275e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "坤 ☷.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "坤 ☷"
+            }
+          },
+          {
+            "id": "3166c9343d420237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "震 ☳.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "震 ☳"
+            }
+          },
+          {
+            "id": "eec4f9078da3a249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "艮 ☶.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "艮 ☶"
+            }
+          },
+          {
+            "id": "1692803eea6f4b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离 ☲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "离 ☲"
+            }
+          },
+          {
+            "id": "ce90ce1370aa8aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "震 ☳.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "震 ☳"
+            }
+          },
+          {
+            "id": "6f3b77f20d45415a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "兑 ☱.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "兑 ☱"
+            }
+          },
+          {
+            "id": "915eeb6c5b1e546e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "三爻 八卦.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "三爻 八卦"
+            }
+          },
+          {
+            "id": "8fb5e7cfeb77fe14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "六爻 重卦.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "六爻 重卦"
+            }
+          },
+          {
+            "id": "32432c27a03f0399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "泰卦 ䷊.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "泰卦 ䷊"
+            }
+          },
+          {
+            "id": "9ea73830d983bf0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "坎 ☵.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "坎 ☵"
+            }
+          },
+          {
+            "id": "167577a8a4761375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "同人卦 ䷌.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "同人卦 ䷌"
+            }
+          },
+          {
+            "id": "84d411ffbb247909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "谦卦 ䷎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "谦卦 ䷎"
+            }
+          },
+          {
+            "id": "43a4bef97b1ff753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "河图.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "河图"
+            }
+          },
+          {
+            "id": "1499cab216ccb0dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "洛书.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "洛书"
+            }
+          },
+          {
+            "id": "68aef2ed0b70dcca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "损卦 ䷨.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "损卦 ䷨"
+            }
+          },
+          {
+            "id": "a96a3f532f76c618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "益卦 ䷩.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "益卦 ䷩"
+            }
+          },
+          {
+            "id": "9f55a894e1fcd36c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "蹇卦 ䷦.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "蹇卦 ䷦"
+            }
+          },
+          {
+            "id": "4ff463ad74017ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "解卦 ䷧.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "解卦 ䷧"
+            }
+          },
+          {
+            "id": "4733be654a67acc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "既济卦 ䷾.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "既济卦 ䷾"
+            }
+          },
+          {
+            "id": "82d0d34731e2e763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未济卦 ䷿.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未济卦 ䷿"
+            }
+          },
+          {
+            "id": "5dae070b855e1c82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "三大易理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "三大易理"
+            }
+          },
+          {
+            "id": "f92486721e51485d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "太阳 ⚌.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "太阳 ⚌"
+            }
+          },
+          {
+            "id": "7f9b23769b78ff5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "少阴 ⚍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "少阴 ⚍"
+            }
+          },
+          {
+            "id": "495e65424bb392b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "少阳 ⚎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "少阳 ⚎"
+            }
+          },
+          {
+            "id": "cb29ed0032136546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "少阳 ⚎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "少阳 ⚎"
+            }
+          }
+        ],
+        "currentTab": 24
+      },
+      {
+        "id": "d0c9d197903dd2f7",
+        "type": "tabs",
+        "dimension": 64.78426395939087,
         "children": [
           {
             "id": "57a221c96453487b",
@@ -20,93 +379,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "d0c9d197903dd2f7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "758d9afc042242f9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "615b618c92e10e6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "道 ☯.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "道 ☯"
-            }
-          },
-          {
-            "id": "c6deec464cab1eb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阳爻 ⚋.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "阳爻 ⚋"
-            }
-          },
-          {
-            "id": "a45cbf035354641f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阳爻 ⚋.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "阳爻 ⚋"
-            }
-          },
-          {
-            "id": "5126771a213223a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "道 ☯.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "道 ☯"
-            }
-          },
-          {
-            "id": "b4c0ed6299c887c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "乾 ☰.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "乾 ☰"
-            }
-          }
-        ],
-        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -125,7 +397,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -265,19 +537,38 @@
       "bases:新建数据库": false
     }
   },
-  "active": "57a221c96453487b",
+  "active": "cb29ed0032136546",
   "lastOpenFiles": [
+    "太阴 ⚏.md",
+    "少阳 ⚎.md",
+    "少阴 ⚍.md",
+    "太阳 ⚌.md",
+    "阴爻 ⚋.md",
+    "阳爻 ⚊.md",
+    "三大易理.md",
+    "《易传》（十翼）.md",
+    "《易经》.md",
     "乾 ☰.md",
     "道 ☯.md",
-    "阳爻 ⚋.md",
-    "阴爻 ⚊.md",
-    "三爻卦.md",
-    "太极/阴爻 - -.md",
-    "太极/阳爻 ---.md",
-    "太极/太极.md",
+    "未济卦 ䷿.md",
+    "既济卦 ䷾.md",
+    "解卦 ䷧.md",
+    "蹇卦 ䷦.md",
+    "益卦 ䷩.md",
+    "损卦 ䷨.md",
+    "洛书.md",
+    "河图.md",
+    "谦卦 ䷎.md",
+    "同人卦 ䷌.md",
+    "坎 ☵.md",
+    "否卦 ䷋.md",
+    "泰卦 ䷊.md",
+    "艮 ☶.md",
+    "六爻 重卦.md",
+    "未命名 1",
+    "未命名",
     "太极/阴爻 - -",
     "太极/阳爻 ---",
-    "太极",
-    "欢迎.md"
+    "太极"
   ]
 }
